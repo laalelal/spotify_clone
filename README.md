@@ -17,3 +17,5 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/spotify-clone.git
+
+** This is the link **  -> https://laalelal.github.io/spotify_clone/ 
